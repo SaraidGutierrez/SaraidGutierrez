@@ -4,8 +4,7 @@
 
 - 🔭 I'm currently open to explore new professional opportunities
 - 👯 I am adept at working autonomously with minimal supervision
-- 📫 How to reach me **saraidmateos23@gmail.com**
-🌱 I am also currently resuming my learning of other programming languages.
+- 🌱 I am also currently resuming my learning of other programming languages.
 - 📫 How to reach me **saraidmateos23@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saraidmateos23/](https://www.linkedin.com/in/saraidmateos23/)
