@@ -2,13 +2,32 @@
 <h1 align="center">Hi 👋, I'm Saraid</h1>
 <h3 align="center">A passionate Junior FullStack Web Developer</h3>
 
-- 🔭 I'm currently open to explore new professional opportunities
+- 🔭 I'm currently open to explore new professional opportunities🛑
 - 👯 I am adept at working autonomously with minimal supervision
 - 🌱 I am also currently resuming my learning of other programming languages.
-- 📫 How to reach me **saraidmateos23@gmail.com**
+
+
+🌟Who am I?✨
+
+👩‍💻💪 I am a passionate Junior Full Stack Developer with an engineering background and solid knowledge in implementing Management Systems (ISO) and workforce training. My engineering education has provided me with a strong foundation in teamwork, process documentation, personnel management skills, and problem-solving abilities.
+
+🌟Why me?✨
+
+🚀✨📚 I have experience in agile methodologies, especially SCRUM, which allows me to quickly adapt to projects and maintain a results-oriented approach. I am proficient in using GIT for version control and have knowledge in data structures and algorithms, enabling me to develop efficient and scalable solutions.
+
+✨✨✨EXPERIENCE AND TECHNOLOGIES✨✨✨
+
+💼💻 My experience spans both Front End and Back End development, using technologies such as JavaScript, React, Redux, HTML5, PostgreSQL, Sequelize, and Node.js. I stand out for my organizational skills and meticulous focus on code quality and documentation.
+
+🌍🌟 I consider myself highly adaptable, enabling me to face challenges and quickly learn new technologies. My English level is B2, allowing me to effectively communicate in international environments.
+
+💡🌟 I am excited to continue growing in my career as a Full Stack developer and contribute my passion for technology and my ability to provide efficient and high-quality solutions. I am open to new opportunities and thrilled to be part of innovative projects.
+
+️📫Email: saraidmateos23@gmail.com
+Github: https://github.com/SaraidGutierrez
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saraidmateos23/](https://www.linkedin.com/in/saraidmateos23/)
-
+- 📫 How to reach me **saraidmateos23@gmail.com**
 - ⚡ Fun fact **I'm passionate at cake decoration designs**
 
 <h3 align="left">Connect with me:</h3>
