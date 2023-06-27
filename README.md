@@ -23,11 +23,9 @@
 
 💡🌟 I am excited to continue growing in my career as a Full Stack developer and contribute my passion for technology and my ability to provide efficient and high-quality solutions. I am open to new opportunities and thrilled to be part of innovative projects.
 
-️📫Email: saraidmateos23@gmail.com
-Github: https://github.com/SaraidGutierrez
-
+-️📫Email: saraidmateos23@gmail.com
+-Github: https://github.com/SaraidGutierrez
 - 📄 Know about my experiences [https://www.linkedin.com/in/saraidmateos23/](https://www.linkedin.com/in/saraidmateos23/)
-- 📫 How to reach me **saraidmateos23@gmail.com**
 - ⚡ Fun fact **I'm passionate at cake decoration designs**
 
 <h3 align="left">Connect with me:</h3>
